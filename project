@@ -1,0 +1,3 @@
+elements-dir pcb-elements
+schematics hub.sch hub2.sch hub3.sch
+output-name board
